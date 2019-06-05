@@ -25,4 +25,7 @@ margin-left: 25%;
   top: 300px;
   right: 500px;
 }
+.headerText {
+  position: relative;
+}
 }
