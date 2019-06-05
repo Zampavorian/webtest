@@ -1,0 +1,7 @@
+@font-face {
+font-family: myFont;
+src: url("https://fonts.google.com/specimen/Poppins");
+}
+body {
+font-family: myFont;
+}
