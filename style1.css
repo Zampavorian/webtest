@@ -7,7 +7,10 @@ margin-left: 25%;
 margin-top: 8%;
 }
 #title {
-  font-size: 25px;
+  font-size: 25px; }
+#name {
+  font-size: 32px;
+  color: #87C540; }
 #nigga {
   width: 140px;
   height: 140px;
