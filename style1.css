@@ -6,7 +6,8 @@ margin-left: 25%;
   margin-top: 8%;
 }
 #title {
-  font-size: 25px; }
+  font-size: 25px; 
+  margin-top: 8%;}
 #name {
   font-size: 32px;
   color: #1E6643;
@@ -18,5 +19,5 @@ margin-left: 25%;
   margin: 0 auto;
 }
 div {
-  margin-top: 8%; }
+  }
 }
