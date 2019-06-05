@@ -9,4 +9,10 @@ font-color: green;
   width: 140px;
   height: 140px;
   border-radius: 50%;
+  position: absolute;
+  left: 50%;
+}
+.myDiv {
+  text-align: center;
+  
 }
