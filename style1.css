@@ -10,11 +10,13 @@ margin-left: 25%;
 #name {
   font-size: 32px;
   color: #1E6643;
-  margin-top: -20%; }
+   }
 #nigga {
   width: 140px;
   height: 140px;
   border-radius: 50%;
   margin: 0 auto;
 }
+div {
+  margin-top: 8%; }
 }
