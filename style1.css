@@ -3,12 +3,14 @@ background-color: #E6DE26;
 }
 p {
 margin-left: 25%;
+  margin-top: 8%;
 }
 #title {
   font-size: 25px; }
 #name {
   font-size: 32px;
-  color: #1E6643; }
+  color: #1E6643;
+  margin-top: -20%; }
 #nigga {
   width: 140px;
   height: 140px;
